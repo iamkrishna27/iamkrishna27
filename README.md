@@ -176,10 +176,10 @@ AI prototype that digitizes and preserves **historical handwritten records** usi
 </td>
 <td width="50%">
 
-### <a href="https://github.com/iamkrishna27">🛡️ DPR-NEXUS</a>
+### <a href="https://github.com/iamkrishna27">⛵SMART_NAVFISH</a>
 <sub><b>Flask · ML CyclOPS</b></sub>
 
-Collaborative **cybersecurity anomaly-detection** system powered by machine learning.
+SMART_NAVFISH is a smart navigation and safety platform that helps fishermen with fishing-zone information, navigation, and emergency SOS alerts.
 
 </td>
 </tr>
@@ -244,9 +244,9 @@ Engineered a scalable Amazon Clone e-commerce platform in React.js and HTML5, bo
 
 | | Institution | Detail |
 |:---:|:---|:---|
-| 🏛️ | **St. Joseph's College of Engineering, Chennai** | B.E. Computer Science · 3rd Year (5th Sem) · Expected Jan 2028 · CGPA **8.37** |
+| 🏛️ | **St. Joseph's College of Engineering, Chennai** | B.E. Computer Science · 3rd Year (5th Sem) · Expected Jan 2028 · CGPA **8.35** |
 | 🏫 | **Sri Krishna Matriculation Higher Secondary School** | 12th Grade **93.3%** · 10th Grade **87%** |
-| 🏆 | **Academic Scholarship Awardee** | Admission cut-off score > 190 |
+| 🏆 | **Academic Scholarship Awardee** | Admission cut-off score => 190 |
 
 <br/>
 
@@ -261,19 +261,19 @@ Engineered a scalable Amazon Clone e-commerce platform in React.js and HTML5, bo
 </tr>
 <tr>
 <td align="center" width="150"><b>🥇 Finalist</b></td>
-<td><b>Agentic Hackathon</b> — Showcased an offline, live prototype at the OMR Chennai Training Centre</td>
+<td><b>Agentic Hackathon</b> — Showcased an offline, live prototype at St Joseph's College of Engineering</td>
 </tr>
 <tr>
-<td align="center" width="150"><b>🏅 Builder</b></td>
-<td><b>INNOVERA'26 Symposium</b> — Built the team's software architecture for the Fault Project Entry</td>
-</tr>
-<tr>
-<td align="center" width="150"><b>🏅 Organizer</b></td>
-<td><b>INVENT EXPO 2025</b> — Organized and presented a live innovation project exhibition</td>
+<td align="center" width="150"><b>🏅 Top-50 From 150</b></td>
+<td><b>Makathon -4.0</b> — Project CareLink empowers migrant workers with a portable, AI-enhanced digital health identity for seamless medical care anywhere.</td>
 </tr>
 <tr>
 <td align="center" width="150"><b>🏅 Contributor</b></td>
 <td><b>GDG on Campus Solution Challenge</b> — Designed the software architecture using digital APIs</td>
+</tr>
+<tr>
+<td align="center" width="150"><b>🏅 Participant</b></td>
+<td><b>INVENT EXPO 2025</b> — participated and presented in live innovation project exhibition</td>
 </tr>
 <tr>
 <td align="center" width="150"><b>🏅 Participant</b></td>
